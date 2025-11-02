@@ -27,4 +27,19 @@ Technologies Used 🛠️
 Live Demo 🔗
 https://kunal8750-hub.github.io/myntra-clone/
 
+Screenshots 📸
 
+
+
+🏠 Home Page
+![Home Page](screenshorts\Screenshot 2025-11-02 132404.png)
+
+🛍️ Category Section
+![Category Page](screenshorts\Screenshot 2025-11-02 132421.png)
+
+🏅 Brands Section
+![Brands Section](screenshorts\Screenshot 2025-11-02 132434.png)
+
+
+
+ 
