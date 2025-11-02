@@ -24,42 +24,7 @@ Technologies Used 🛠️
 - CSS3 – Styling, layout, hover effects
 - Google Fonts – Modern and clean typography
 
-Code - Structure 📂
+Live Demo 🔗
+https://kunal8750-hub.github.io/myntra-clone/
 
-Myntra-Clone/
-│
-├── .vscode/                    
-│   └── tasks.json               
-│
-├── index.html                
-├── index.css                    
-└── images/                     
-    │
-    ├── myntralogo.png         
-    └── myntrabanner1.jpg       
-    │
-    ├── category/              
-    │   ├── category1.jpg
-    │   ├── category2.jpg
-    │   ├── category3.jpg
-    │   ├── category4.jpg
-    │   ├── category5.jpg
-    │   ├── category6.jpg
-    │   ├── category7.jpg
-    │   ├── category8.jpg
-    │   ├── category9.jpg
-    │   └── category10.jpg
-    │
-    └── offers/                 
-        ├── offer1.png
-        ├── offer2.png
-        ├── offer3.png
-        ├── offer4.png
-        ├── offer5.png
-        ├── offer6.png
-        ├── offer7.png
-        ├── offer8.png
-        ├── offer9.png
-        ├── offer10.png
-        ├── offer11.png
-        └── offer12.png
+
